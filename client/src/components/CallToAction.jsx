@@ -11,7 +11,7 @@ export default function CallToAction() {
           Checkout my portfolio for more projects and insights!
         </p>
         <Button gradientDuoTone='purpleToPink' className='rounded-tl-xl rounded-bl-none'>
-          <a href="https://github.com/abhishekgurjar-in" target='_blank' rel='noopener noreferrer'>
+          <a href="https://abhishekgurjar.netlify.app/" target='_blank' rel='noopener noreferrer'>
             Visit My Portfolio
           </a>
         </Button>
