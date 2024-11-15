@@ -91,10 +91,10 @@ To run this project locally, follow these steps:
 - **Explore Posts**: Browse through blog posts and engage with the community.
 
 
-## Author
-**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekgurjar-in).
-
 ## Contributing
 
 Contributions are welcome! Please fork this repository, create a new branch, and submit a pull request for any improvements or bug fixes.
 
+
+## Author
+**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekgurjar-in).
