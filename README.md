@@ -83,7 +83,6 @@ To run this project locally, follow these steps:
 6. Open your browser and visit `http://localhost:3000`.
 
 
-
 ## Usage
 
 - **Admin Actions**: Log in as an admin to create, edit, or delete blog posts.
