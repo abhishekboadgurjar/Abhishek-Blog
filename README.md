@@ -96,4 +96,5 @@ Contributions are welcome! Please fork this repository, create a new branch, and
 
 
 ## Author
+
 **Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekboadgurjar).
