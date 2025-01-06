@@ -1,5 +1,3 @@
-
-
 # Abhishek Blog
 
 Welcome to **Abhishek Blog** – a full-stack MERN (MongoDB, Express, React, Node.js) application where an admin can post blogs, and users can like and comment on each blog post. This project is designed to create a seamless and interactive blogging experience.
